@@ -1,0 +1,13 @@
+|Front|
+-------
+1.Page web classique
+2.Ajouter un slider de carte
+3.Rajouter des boutons
+-------
+[Technique]
+-------
+1. Pour une boite d'arme faire une list pour chaque armes
+2. Création de carte dynamique pour réaliser le slider
+3. Réaliser le slider qui bouge sur l'axe horizontale
+4. Ajouter une variable seed pour avoir une tracabilité du tirage
+5. Ajouter une variable odds(arme qui va tomber au tirage)

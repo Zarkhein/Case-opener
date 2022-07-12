@@ -1,0 +1,19 @@
+* {
+  background-color: #727884;
+}
+
+.spin {
+  background-color: #ffe4c4;
+  box-sizing: content-box;
+  height: 250px;
+  width: 1000px;
+  position: relative;
+}
+
+.cardWeapon {
+  background-color: #008000b9;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  margin-left: 50%;
+}
