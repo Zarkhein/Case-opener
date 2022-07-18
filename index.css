@@ -1,19 +1,33 @@
 * {
   background-color: #727884;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 .spin {
   background-color: #ffe4c4;
-  box-sizing: content-box;
+  white-space: nowrap;
   height: 250px;
   width: 1000px;
-  position: relative;
+  margin-left: 30vw;
+  margin-top: 25vh;
 }
 
 .cardWeapon {
-  background-color: #008000b9;
+  display: inline-block;
+  background-color: grey;
   width: 100px;
   height: 100px;
-  position: relative;
-  margin-left: 50%;
+  margin-top: 75px;
+  margin-left: 10px;
+}
+
+.btn {
+  background-color: white;
+  width: 100px;
+  height: 50px;
+}
+
+.btnBody {
+  text-align: center;
 }
